@@ -1,0 +1,2 @@
+# DraftView
+An Android ViewComponent
